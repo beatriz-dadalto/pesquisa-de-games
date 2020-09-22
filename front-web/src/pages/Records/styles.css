@@ -12,7 +12,7 @@
 .records-table {
   width: 100%;
   border-bottom: 10px solid var(--color-turquoise);
-  border-radius: 0 0 10px 10px;
+  /* border-radius: 0 0 10px 10px; */
 }
 
 .records-table thead {
