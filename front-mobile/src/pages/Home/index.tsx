@@ -47,14 +47,14 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   gamerImage: {
-    width: 309,
-    height: 288,
+    width: 301,
+    height: 280,
   },
   title: {
     color: '#00D4FF',
     fontSize: 36,
     fontWeight: 'bold',
-    marginTop: 31,
+    marginTop: 28,
     fontFamily: 'Play_700Bold',
   },
   subTitle: {
@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
     fontFamily: 'Play_400Regular',
   },
   footer: {
-    marginTop: '15%',
+    marginTop: '8%',
     alignItems: 'center',
   },
   button: {
