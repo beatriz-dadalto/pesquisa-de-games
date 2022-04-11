@@ -16,10 +16,10 @@
 [Editor VSCODE](https://code.visualstudio.com/Download) (ou outro editor de sua preferência)
 
 
-# [Versão Web do projeto] Clique [aqui](https://dspesquisa-biacoelho.netlify.app/) para ver :fire:
+# [Versão Web do projeto] Clique [aqui](https://dspesquisa-beatrizdalto.netlify.app/) para ver :fire:
 
 
-<img alt="Ver Site do projeto" title="Ver Site do projeto" src="https://github.com/biacoelho/pesquisa-de-games/blob/master/dspesquisa-biacoelho.gif" width="680px" />
+<img alt="Ver Site do projeto" title="Ver Site do projeto" src="https://github.com/beatriz-dadalto/pesquisa-de-games/blob/master/dspesquisa-biacoelho.gif" width="680px" />
 
 # [Versão Mobile do projeto] Como baixar e instalar
 
